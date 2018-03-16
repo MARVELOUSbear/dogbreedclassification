@@ -1,0 +1,26 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+ 
+  background-image: url("../Images/puppy.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /*background-color: #333;*/
+}
+  
+
+.form-signin {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+  text-align: center; 
+}
+.form-signin .form-signin-heading,.form-signin .checkbox {
+  margin-bottom: 10px;
+ color:aliceblue
+}
+.form-signin.form-signin-heading
+{
+    text-align: center;
+    color:cornflowerblue
+}
